@@ -1,5 +1,5 @@
 # Advances-in-Deep-Learning
 
-##-Neural Machine Translation using GRU <br />
-##-CIFAR10 Imaage Classification using DNN (without convolutions) <br />
-##-CIFAR10 Imaage Classification using CNN (batch normalization, max-pooling and dropout)
+##-Neural Machine Translation using  Gated Recurrent Units (GRU) <br />
+##-CIFAR10 Image Classification using Deep Neural Network (without convolutions) <br />
+##-CIFAR10 Image Classification using Convolutional Neural Network (batch normalization, max-pooling and dropout)
