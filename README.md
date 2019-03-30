@@ -1,4 +1,4 @@
-# Advances-in-Deep-Learning
+# Deep-Learning
 
 ## -Neural Machine Translation using  Gated Recurrent Units (GRU) <br />
 ## -CIFAR10 Image Classification using Deep Neural Network (without convolutions) <br />
